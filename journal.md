@@ -1,8 +1,9 @@
 # Title
-Biomass burning aerosol over West Africa
+Simulations of Biomass burning aerosol over West Africa
 
 #Authors
 Gerard Capes
+John Smith
 
 #Introduction
 Burning aerosols is bad. Don't do it. Just don't.
