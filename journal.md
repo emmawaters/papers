@@ -1,5 +1,5 @@
 # Title
-Biomass burning aerosol over West Africa
+Aircraft measurements of biomass burning aerosol over West Africa
 
 #Authors
 Gerard Capes
